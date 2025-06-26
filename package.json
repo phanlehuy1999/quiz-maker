@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/phanlehuy1999/quiz-maker",
+  "homepage": "https://phanlehuy1999.github.io/quiz-maker/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
