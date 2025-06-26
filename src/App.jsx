@@ -5,7 +5,7 @@ import QuizResult from './components/QuizResult';
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/quiz-maker">
       <div className="app">
         <Routes>
           <Route path="/" element={<QuizCreation />} />
